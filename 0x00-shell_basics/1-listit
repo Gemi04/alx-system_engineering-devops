@@ -1,2 +1,2 @@
 #!/bin/bash
-ls
+ls # lists the files in a directory
