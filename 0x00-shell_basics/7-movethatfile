@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /tmp/my_first_directory
+mv /tmp/betty /tmp/my_first_directory # moving a file from one driectory to another
