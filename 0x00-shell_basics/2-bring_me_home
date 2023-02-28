@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~
+cd ~ # changes the directory to home.
