@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la
+ls -la #This code lists directories in long format, "l" (and includes hidden files, "a")
