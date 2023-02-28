@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+pwd #returns the file directory we're currently in.
