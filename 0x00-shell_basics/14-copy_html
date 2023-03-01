@@ -1,2 +1,2 @@
 #!/bin/bash
- find . -name \*.html -exec cp {} /alx-system_engineering-devops \ # this script is supposed to find all the files in the currnet directory with the '.html' extension and copy them to the specified extension.
+find ./ -name '*.html' -exec cp -prv '{}' '/alx-system_engineering-devops/'  # this script is supposed to find all the files in the currnet directory with the '.html' extension and copy them to the specified extension.
