@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lav # lists hidden files in long format in numerical order, "v".
+ls -la # lists hidden files in long format in numerical order, "v".
