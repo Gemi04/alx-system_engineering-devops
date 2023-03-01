@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /bin/ls __ls__ # Creates a symbolic link/symlink. (files that point to other locations on the system)
