@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name '[[:upper:]]*' -exec mv -t ~/tmp/u {} + # moves all files beginning with an uppercase letter to the specified directory
