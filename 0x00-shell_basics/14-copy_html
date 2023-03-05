@@ -1,2 +1,2 @@
 #!/bin/bash
-cp './*.html' '/alx-system_engineering-devops'/  # this script is supposed to find all the files in the currnet directory with the '.html' extension and copy them to the specified extension.
+cp ./*.html alx-system_engineering-devops  # this script is supposed to find all the files in the current directory with the '.html' extension and copy them to the specified extension.
