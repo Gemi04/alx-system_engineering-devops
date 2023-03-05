@@ -1,0 +1,2 @@
+#!/bin/bash
+groups root # states what groups the current user is in
