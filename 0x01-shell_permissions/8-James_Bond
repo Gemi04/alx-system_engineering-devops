@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod ug-wrx o-wrx hello # takes away all permissions for owner and group, gives all permissions to others
