@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --reference=olleh hello #cloning permissions of the file olleh to that of the file hello. So they can have the same permissions
