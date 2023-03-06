@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 644 hello # takes away all permissions for owner and group and gives all permissions to others
+umask 007 hello # takes away all permissions for owner and group and gives all permissions to others
