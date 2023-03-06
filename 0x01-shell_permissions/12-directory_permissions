@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 my_dir>>! #creates a file and sets it's permissions all at once
+mkdir -m 751 my_dir #creates a file and sets it's permissions at once. '-m' states the mode
