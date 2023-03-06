@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod chmod 751 my_dir  #creates a file and sets it's permissions all at once
